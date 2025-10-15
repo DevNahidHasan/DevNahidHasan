@@ -126,5 +126,5 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 - ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-### [![GitHub](https://img.shields.io/badge/GitHub-DevNahidHasan-black?logo=github)](https://github.com/DevNahidHasan) ** Github Stats:**
+## **🐙 Github Stats:**
 ![S M Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNahidHasan&theme=moltack&show_icons=true)
