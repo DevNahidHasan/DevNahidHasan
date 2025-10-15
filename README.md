@@ -77,9 +77,9 @@ Absolutely, Nahid! Here's a clean and visually organized badge-style list using 
 -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevNahidHasan&theme=gradient&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevNahidHasan&show_icons=true&theme=gradient&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevNahidHasan&layout=compact&theme=gradient&hide_border=true)
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?DevNahidHasan&show_icons=true&theme=gradient&hide_border=true)
-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?DevNahidHasan&theme=gradient&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevNahidHasan&theme=gradient&hide_border=true)
 
 
 ## **🛠️ Technical Skills**
