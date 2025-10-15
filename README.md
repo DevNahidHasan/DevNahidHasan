@@ -69,19 +69,15 @@ Absolutely, Nahid! Here's a clean and visually organized badge-style list using 
 
 
 
-<!-- - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) -->
-<!-- - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) -->
- <!-- - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) -->
-
-
-
-
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 -->
-## **🛠️ Technical Skills**
-From logic to deployment—these are the tools behind the code.
-Each one chosen to solve real problems with clean code and deliver reliable, scalable, enterprise-level solutions.
 
+## **🛠️ Technical Skills**
+From logic to deployment—these are the tools behind the code.<br>
+Each one chosen to solve real problems with clean code and deliver reliable, scalable, enterprise-level solutions.
 
 ### 🧠 **Skills**  
 - ![Problem Solving](https://img.shields.io/badge/Problem_Solving-E74C3C?style=for-the-badge)
