@@ -80,7 +80,7 @@ Absolutely, Nahid! Here's a clean and visually organized badge-style list using 
 
 - ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevNahidHasan&theme=gradient)
 
-  ![S M Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNahidHasan&theme=default&show_icons=true)
+  ![S M Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNahidHasan&theme=shadow_green&show_icons=true)
 
 
 
