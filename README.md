@@ -80,7 +80,7 @@ Absolutely, Nahid! Here's a clean and visually organized badge-style list using 
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=DevNahidHasan)](https://git.io/streak-stats)
 
-![S M Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNahidHasan&theme=moltack&show_icons=true)
+
 
 
 
@@ -125,3 +125,6 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 - ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+### [![GitHub](https://img.shields.io/badge/GitHub-DevNahidHasan-black?logo=github)](https://github.com/DevNahidHasan) ** Github Stats:**
+![S M Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNahidHasan&theme=moltack&show_icons=true)
