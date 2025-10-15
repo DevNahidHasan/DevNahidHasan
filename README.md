@@ -68,6 +68,11 @@ Absolutely, Nahid! Here's a clean and visually organized badge-style list using 
 -->
 ## **🛠️ Technical Skills**
 
+### 🧠 **Skills**  
+- ![Problem Solving](https://img.shields.io/badge/Problem_Solving-E74C3C?style=for-the-badge)
+- ![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_&_Algorithms-27AE60?style=for-the-badge)
+- ![Object-Oriented Programming](https://img.shields.io/badge/Object_Oriented_Programming-2980B9?style=for-the-badge)
+
 ### **🧑‍💻 Programming Languages:**
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
