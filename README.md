@@ -73,15 +73,13 @@ Absolutely, Nahid! Here's a clean and visually organized badge-style list using 
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevNahidHasan)](https://github.com/DevNahidHasan/github-readme-stats)
+ - ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevNahidHasan&theme=gradient&hide_border=true)
+- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevNahidHasan&theme=gradient&hide_border=true)
 -->
 
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevNahidHasan&theme=gradient&hide_border=true)
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevNahidHasan&theme=dark&hide_border=true)
   ![S M Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNahidHasan&theme=dark&show_icons=true)
-
-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevNahidHasan&theme=gradient&hide_border=true)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevNahidHasan)](https://github.com/DevNahidHasan/github-readme-stats)
-  
 
 
 ## **🛠️ Technical Skills**
