@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 
+
 ### 🧑‍💻 **Programming Languages:**
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -74,6 +75,12 @@ Absolutely, Nahid! Here's a clean and visually organized badge-style list using 
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahidhasan123&theme=gradient&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhasan123&layout=compact&theme=gradient&hide_border=true)
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidhasan123&show_icons=true&theme=gradient&hide_border=true)
+- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidhasan123&theme=gradient&hide_border=true)
+
 
 ## **🛠️ Technical Skills**
 From logic to deployment—these are the tools behind the code.<br>
