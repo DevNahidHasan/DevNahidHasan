@@ -78,7 +78,7 @@ Absolutely, Nahid! Here's a clean and visually organized badge-style list using 
 - ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevNahidHasan&theme=gradient&hide_border=true)
 -->
 
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevNahidHasan&theme=gradient)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=DevNahidHasan&theme=dark)](https://git.io/streak-stats)
 
   ![S M Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNahidHasan&theme=moltack&show_icons=true)
 
