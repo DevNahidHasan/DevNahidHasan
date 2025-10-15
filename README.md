@@ -1,7 +1,52 @@
 # Hi there 👋, I'm S M Nahid Hasan
 
+## **🛠️ Technical Skills**
+From logic to deployment—these are the tools behind the code.<br>
+Each one chosen to solve real problems with clean code and deliver reliable, scalable, enterprise-level solutions.
+
+### 🧠 **Skills**  
+- ![Problem Solving](https://img.shields.io/badge/Problem_Solving-E74C3C?style=for-the-badge)
+- ![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_&_Algorithms-27AE60?style=for-the-badge)
+- ![Object-Oriented Programming](https://img.shields.io/badge/Object_Oriented_Programming-2980B9?style=for-the-badge)
+
+### **🧑‍💻 Programming Languages:**
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### **🔧 Backend Technologies:**
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+- ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+- ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+
+### **🎨 Frontend Technologies:**
+- ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **🗄️ Database**
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **🧰 Tools**
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+## **🐙 Github Stats:**
+![S M Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNahidHasan&theme=moltack&show_icons=true)
 
 <!--
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **DevNahidHasan/DevNahidHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -76,14 +121,17 @@ Absolutely, Nahid! Here's a clean and visually organized badge-style list using 
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevNahidHasan)](https://github.com/DevNahidHasan/github-readme-stats)
  - ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevNahidHasan&theme=gradient&hide_border=true)
 - ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevNahidHasan&theme=gradient&hide_border=true)
--->
-
  [![GitHub Streak](https://streak-stats.demolab.com/?user=DevNahidHasan)](https://git.io/streak-stats)
 
 
 
 
 
+
+
+
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-->
 ## **🛠️ Technical Skills**
 From logic to deployment—these are the tools behind the code.<br>
 Each one chosen to solve real problems with clean code and deliver reliable, scalable, enterprise-level solutions.
