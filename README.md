@@ -43,7 +43,7 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 - ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ## **🐙 Github Stats:**
-![S M Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNahidHasan&theme=moltack&show_icons=true)
+![S M Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNahidHasan&commits_year=2025&theme=moltack&show_icons=true)
 
 
 
