@@ -1,4 +1,9 @@
 # Hi there 👋, I'm S M Nahid Hasan
+**Java Spring Boot Developer**
+
+I’m a Computer Science student with a passion for backend development. I’m currently focused on learning Java Spring Boot and Microservices, building the foundation to design and develop scalable systems that solve real-world problems.
+
+On the frontend, I’ve just started with JavaScript, strengthening my understanding of core web concepts. My next steps are to explore TypeScript for added structure and reliability, and then move into Angular to apply those skills in creating responsive, user-friendly interfaces.
 
 ## **🛠️ Technical Skills**
 From logic to deployment—these are the tools behind the code.<br>
