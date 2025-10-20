@@ -50,6 +50,7 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 ## **🐙 Github Stats:**
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevNahidHasan&card_width=467)](https://git.io/streak-stats)
 ![S M Nahid Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNahidHasan&commits_year=2025&theme=moltack&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm)
 
 
 
