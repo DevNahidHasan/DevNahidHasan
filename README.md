@@ -59,16 +59,8 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DevNahidHasan&theme=merko" alt="DevNahidHasan github readme activity graph" width="60%" />
 </div>
 <br />
-<div>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevNahidHasan&theme=default" style="width:394.672px; height:217.062px;" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevNahidHasan&theme=default" alt="DevNahidHasan github readme top-langs" width="48%" />
-</div>
 
 
-<br />
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm)
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm" alt="DevNahidHasan github readme activity graph" style="width:60%; height:auto;" />
   
 
 
@@ -98,6 +90,9 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 <!--
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **DevNahidHasan/DevNahidHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm)
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm" alt="DevNahidHasan github readme activity graph" style="width:60%; height:auto;" />
 
 Here are some ideas to get you started:
 
