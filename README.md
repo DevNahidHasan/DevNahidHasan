@@ -48,7 +48,7 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 - ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ## **🐙 Github Stats:**
-[![](https://github-readme-stats.vercel.app/api?username=DevNahidHasan)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=DevNahidHasan)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm)
 
 
