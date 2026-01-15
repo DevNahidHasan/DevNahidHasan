@@ -60,7 +60,7 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 </div>
 <br />
 <div>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevNahidHasan&theme=default" width="51%" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevNahidHasan&theme=default" style="width:394.672px; height:217.062px;" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevNahidHasan&theme=default" alt="DevNahidHasan github readme top-langs" width="48%" />
 </div>
 
