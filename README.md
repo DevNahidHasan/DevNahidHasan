@@ -60,8 +60,8 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 </div>
 <br />
 <div>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm" alt="DevNahidHasan github readme activity graph" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevNahidHasan&theme=default" alt="DevNahidHasan github readme top-langs"  />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm" alt="DevNahidHasan github readme activity graph" style="width:100%; height:auto;" />
+
 </div>
 
 
@@ -69,7 +69,7 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm)
 
-
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevNahidHasan&theme=default" alt="DevNahidHasan github readme top-langs" width="39%" />
 
 
 
