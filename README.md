@@ -47,17 +47,7 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 - ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-## **🐙 Github Stats:**
-
-<div align="left">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DevNahidHasan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Nahid Hasan's Github Stats" />
-</div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm)
-
----
-
-## 📈 GitHub Stats
+## **📈 GitHub Stats**
 
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=DevNahidHasan&theme=react" width="51%" />
@@ -70,8 +60,9 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 </div>
 
 <br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm)
 
----
+
 
 
 
