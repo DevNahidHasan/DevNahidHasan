@@ -48,9 +48,6 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 - ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ## **🐙 Github Stats:**
-![](https://github-readme-stats.vercel.app/api?username=DevNahidHasan)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DevNahidHasan" alt="GitHub Streak" /></a>
 
 <div align="left">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DevNahidHasan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Nahid Hasan's Github Stats" />
@@ -58,7 +55,23 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm)
 
+---
 
+## 📈 GitHub Stats
+
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=DevNahidHasan&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=DevNahidHasan&layout=compact&show_icons=true&theme=react" alt="DevNahidHasan github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=DevNahidHasan&layout=compact&theme=react" alt="DevNahidHasan github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DevNahidHasan&theme=merko" alt="DevNahidHasan github readme activity graph" width="60%" />
+</div>
+
+<br />
+
+---
 
 
 
