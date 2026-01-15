@@ -60,15 +60,15 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 </div>
 <br />
 <div>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm" alt="DevNahidHasan github readme activity graph" style="width:60%; height:auto;" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevNahidHasan&theme=default" alt="DevNahidHasan github readme top-langs" width="39%" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevNahidHasan&theme=default" width="51%" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevNahidHasan&theme=default" alt="DevNahidHasan github readme top-langs" width="48%" />
 </div>
 
 
 <br />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm)
-
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm" alt="DevNahidHasan github readme activity graph" style="width:60%; height:auto;" />
   
 
 
