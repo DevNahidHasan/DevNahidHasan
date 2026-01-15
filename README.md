@@ -50,6 +50,8 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 ## **🐙 Github Stats:**
 ![](https://github-readme-stats.vercel.app/api?username=DevNahidHasan)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DevNahidHasan" alt="GitHub Streak" /></a>
+
 <div align="left">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DevNahidHasan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Nahid Hasan's Github Stats" />
 </div>
