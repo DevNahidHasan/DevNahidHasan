@@ -60,6 +60,7 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
   
 </div>
 <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=DevNahidHasan&layout=compact&theme=react" alt="DevNahidHasan github readme top-langs" width="39%" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&layout=compact&theme=calm" alt="DevNahidHasan github readme activity graph" style="width:60%; height:auto;" />
 <br />
 
 
