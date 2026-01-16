@@ -55,11 +55,8 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DevNahidHasan&theme=merko" alt="DevNahidHasan github readme activity graph" width="60%" />
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevNahidHasan&layout=compact&size_weight=0&count_weight=1&theme=react&hide=html,css" alt="DevNahidHasan top langs" width="39%" />
-  
-  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevNahidHasan&layout=compact)
-  
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DevNahidHasan&theme=react" alt="DevNahidHasan github readme activity graph" width="60%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevNahidHasan&layout=compact&size_weight=0&count_weight=1&theme=react" alt="DevNahidHasan top langs" width="39%" />
 </div>
 <br />
 
