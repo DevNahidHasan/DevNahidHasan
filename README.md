@@ -55,10 +55,11 @@ Each one chosen to solve real problems with clean code and deliver reliable, sca
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DevNahidHasan&theme=react&height=400" alt="DevNahidHasan github readme activity graph" width="60%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DevNahidHasan&theme=react" alt="DevNahidHasan github readme activity graph" width="60%" />
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevNahidHasan&layout=compact&size_weight=0&count_weight=1&theme=react&exclude_repo=webdeveloper-portfolio,leader-board-css3,Assignment1-donate-today,developer-portfolio" alt="DevNahidHasan top langs" width="39%" />
 </div>
 <br />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevNahidHasan&theme=calm&height=600" alt="DevNahidHasan github readme activity graph" style="width:60%" />
 
 
   
